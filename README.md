@@ -10,3 +10,5 @@ which will compile .ts files to .js files
 run with 
 
 node .\index.js
+
+or docker 
