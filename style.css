@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+  }
+  button {
+    margin-top: 5px;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 10px 40px;
+    background: rgb(29, 131, 199);
+    border-radius: 15px;
+    margin-right: 10px;
+    border: black;
+  }
+  input{
+    margin-right: 10px;
+  }
+  table, td {
+    border: 1px solid black;
+    width: 30%;
+  }
+  button:hover {
+    background:  rgb(7, 104, 168);
+  }
